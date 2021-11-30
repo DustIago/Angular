@@ -1,0 +1,21 @@
+.mat-toolbar-row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+
+  }
+  .Logo img {
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    margin-top: 1cm;
+    width: 12%;
+    right: 1cm;
+  }
+
+  .menu-links {
+      position: relative;
+      top: 20px;
+}
